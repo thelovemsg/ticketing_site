@@ -6,6 +6,7 @@
 #### 3. Check if the performance of the website is good by using the monitoring tools.
 #### 4. Apply CI/CD with gitlab(with some DEVOPS knowledges) 
 
+
 # thelovemsg Commandments
 #### 1. Keep in mind not to be hurry! Keep doing this without quiting it midway.
 #### 2. Don't be perfect! But do not make up the code like amature.
