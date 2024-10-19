@@ -12,3 +12,7 @@
 #### 2. Don't be perfect! But do not make up the code like amature.
 #### 3. Don't focus on the unimportant things too much. Look at the objective of your project.
 #### 4. All the requirements should be done by studying. So, It doesn't mean you should already know it.
+
+
+# Sites
+1. Miro : https://miro.com/app/board/uXjVLSCAJK8=/?share_link_id=784237877577
