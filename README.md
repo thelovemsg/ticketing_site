@@ -21,4 +21,7 @@
 4. Review Project
 
 # Event Storming Sites
-1. Miro : https://miro.com/app/board/uXjVLSCAJK8=/?share_link_id=784237877577
+Miro : https://miro.com/app/board/uXjVLSCAJK8=/?share_link_id=784237877577
+
+# UML Site
+lucid.com : https://lucid.app/lucidchart/d8f0a113-bec6-4862-a832-984135d913be/edit?viewport_loc=-243%2C-910%2C4806%2C2681%2C0_0&invitationId=inv_3acde02f-bf38-403f-ac89-4ef82774cfca
